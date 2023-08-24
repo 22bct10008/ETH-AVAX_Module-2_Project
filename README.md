@@ -2,7 +2,7 @@
 
 A simple Ethereum-based bank application smart contract with a React frontend for interacting with the contract.
 
-Smart Contract File Link : [BankApp.sol](src/Contracts/BankApp.sol)
+# Smart Contract File Link : [BankApp.sol](src/Contracts/BankApp.sol)
 
 ## Description
 
