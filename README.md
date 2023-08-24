@@ -2,6 +2,8 @@
 
 A simple Ethereum-based bank application smart contract with a React frontend for interacting with the contract.
 
+Smart Contract File Link : [BankApp.sol](src/Contracts/BankApp.sol)
+
 ## Description
 
 The "Bank App Metacrafters" project consists of a Solidity smart contract called "BankApp," which provides basic banking functionality on the Ethereum blockchain. Users can create bank accounts, deposit and withdraw funds, and check their account balances using the contract. The project also includes a React frontend that enables users to interact with the smart contract seamlessly.
